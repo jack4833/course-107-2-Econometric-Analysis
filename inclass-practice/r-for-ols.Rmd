@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = TRUE, eval=F)
 
 test
 
+ㄍ
+
 # 參考資料
 
   * [dplyr minicourse, 陳柏銘](https://bookdown.org/PoMingChen/Dplyr_minicourse/)
