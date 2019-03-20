@@ -107,6 +107,18 @@ is.na(a)
 a=="NA"
 ```
 
+```{r}
+#traditional
+lm(log(subs)-log()))
+
+journals %>%
+  
+
+journals %>% 
+  lm(log(subs)-log(citeprice))+foundingear,data=.) -> model2
+```
+#補充
+
 ## 模型比較
 
 ```{r ols-comp-r, results='hide', warning=FALSE}
